@@ -1,0 +1,1 @@
+Transform the current directory into a Git repository. This adds a .git folder to the current directory and makes it possible to start recording revisions of the project.
